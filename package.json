@@ -1,0 +1,11 @@
+{
+  "name": "03-exercise-sql-aggregates",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}

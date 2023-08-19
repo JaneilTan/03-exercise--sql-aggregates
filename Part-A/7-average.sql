@@ -1,0 +1,1 @@
+-- Task: Get the average Rotten Tomatoes rating for all movies. --

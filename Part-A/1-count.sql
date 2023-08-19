@@ -1,0 +1,1 @@
+-- Task: Count the number of movies using the COUNT aggregation function. --
